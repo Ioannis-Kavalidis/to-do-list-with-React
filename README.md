@@ -2,7 +2,7 @@
 
 ### Preview:
 
-![to-do-list](https://imgur.com/VFW9yOh)
+![to-do-list](https://i.imgur.com/VFW9yOh.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
